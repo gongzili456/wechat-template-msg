@@ -1,0 +1,17 @@
+{
+  "name": "wechat-template-msg",
+  "version": "1.0.0",
+  "description": "send, add, list and delete wechat template message",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gongzili456/wechat-access-token.git"
+  },
+  "keyword": ["wechat", "template", "message"],
+  "author": "LiuGuili <gongzili456@gmail.com> (http://geeekr.com)",
+  "license": "ISC",
+  "dependencies": {
+    "co-request": "^1.0.0"
+  }
+}
