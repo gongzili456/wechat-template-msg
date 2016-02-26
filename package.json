@@ -1,6 +1,6 @@
 {
   "name": "wechat-template-msg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "send, add, list and delete wechat template message",
   "main": "index.js",
   "scripts": {},
