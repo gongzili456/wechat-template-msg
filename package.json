@@ -8,10 +8,15 @@
     "type": "git",
     "url": "git@github.com:gongzili456/wechat-template-msg.git"
   },
-  "keyword": ["wechat", "template", "message"],
+  "keyword": [
+    "wechat",
+    "template",
+    "message"
+  ],
   "author": "LiuGuili <gongzili456@gmail.com> (http://geeekr.com)",
   "license": "ISC",
   "dependencies": {
+    "assert": "^1.3.0",
     "co-request": "^1.0.0"
   }
 }
